@@ -38,3 +38,4 @@ $ rails server
 ```
 
 詳しくは、[*Ruby on Rails チュートリアル*](http://railstutorial.jp/)を参考にしてください。
+# railstutorial

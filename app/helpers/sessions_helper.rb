@@ -15,6 +15,7 @@ module SessionsHelper
   # 渡されたユーザーがログイン済みユーザーであればtrueを返す
   def current_user?(user)
     user == current_user
+  end
 
   # 記憶トークンcookieに対応するユーザーを返す
   def current_user
